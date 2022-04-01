@@ -1,0 +1,3 @@
+[submodule "Spring4Shell-POC"]
+	path = Spring4Shell-POC
+	url = git@github.com:lunasec-io/Spring4Shell-POC.git
