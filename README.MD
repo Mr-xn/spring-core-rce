@@ -156,7 +156,8 @@ NOTE: Picked up JDK_JAVA_OPTIONS:  --add-opens=java.base/java.lang=ALL-UNNAMED -
 01-Apr-2022 15:11:47.179 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [2908] milliseconds
 ```
 
-然后访问 http://127.0.0.1:8082/helloworld/greeting 
+然后访问 http://127.0.0.1:8082/helloworld/greeting  
+
 <img width="540" alt="image" src="https://user-images.githubusercontent.com/18260135/161292061-9c9d5432-caff-47f8-926b-7c33a1d891ec.png">
 
 Reference：
